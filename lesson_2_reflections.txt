@@ -9,3 +9,8 @@ What value do you think it offers?
 working directory contains the files in the directory we are working on.
 staging area keeps the files we've added to the repository.
 The staging area allows to display the change status of files and commit multiple files with a single commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+use git add only on those files which belong to this logical change before we do the commit.
