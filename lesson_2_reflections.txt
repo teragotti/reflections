@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 creates the medata in the hidden .git directory
+
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+working directory contains the files in the directory we are working on.
+staging area keeps the files we've added to the repository.
+The staging area allows to display the change status of files and commit multiple files with a single commit.
