@@ -14,3 +14,22 @@ The staging area allows to display the change status of files and commit multipl
 How can you use the staging area to make sure you have one commit per logical change?
 
 use git add only on those files which belong to this logical change before we do the commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+for exprimental changes while fixing bugs on the master branch
+
+
+How do the diagrams help you visualize the branch structure?
+
+find the parent commits
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merge code changes of two branches with a common parent
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+auto merge solves most of the merge issues automatically.
